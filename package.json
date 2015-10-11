@@ -1,0 +1,14 @@
+{
+  "name": "graphql-simplify",
+  "version": "1.0.0",
+  "description": "Library that facilitates working with graphql in ES6",
+  "main": "src/lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Agutoli <bruno.agutoli@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^0.4.7"
+  }
+}
